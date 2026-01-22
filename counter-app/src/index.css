@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+body{
+  background: #d0d6f4;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+/* linear-gradient(to right, #74ebd5, #9face6); */
