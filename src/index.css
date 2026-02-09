@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+/*Full Screen Background*/
+.page-wrapper{
+  min-height: 100vh;
+  background: linear-gradient(135deg, #cad2e0, #3a61af);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
